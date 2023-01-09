@@ -7,4 +7,21 @@ window.addEventListener("DOMContentLoaded", () => {
   button.addEventListener("click", () => {
     alert("💣");
   });
+   const button = document.querySelector(".button");
+  button.addEventListener("click", () => {
+    alert("💣");
+  });
+   const button = document.querySelector(".button");
+  button.addEventListener("click", () => {
+    alert("💣");
+  });
+   const button = document.querySelector(".button");
+  button.addEventListener("click", () => {
+    alert("💣");
+  });
+   const button = document.querySelector(".button");
+  button.addEventListener("click", () => {
+    alert("💣");
+  });
+  
 });
